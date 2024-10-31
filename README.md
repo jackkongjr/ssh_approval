@@ -4,7 +4,7 @@ ssh approval script via PAM exec
 
 # For pentesting...
 
-When no other options are available to open tunnel inside target network, but you have **RCE**
+When no other option is available to open tunnel inside target network, but you have **RCE**
 
  
 ![image](https://github.com/user-attachments/assets/3b5c873e-1fe5-4bbd-a87c-2de8d77b10d2)
