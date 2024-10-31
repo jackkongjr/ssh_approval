@@ -2,6 +2,9 @@
 ssh approval script via PAM exec
 
 
+## Automation script for [SSH Approval writeup](https://gist.github.com/jackkongjr/5d86317c5125b2597df3671b3d525a4c)
+
+
 # For pentesting...
 
 When no other option is available to open tunnel inside target network, but you have **RCE**
