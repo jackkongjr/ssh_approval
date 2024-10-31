@@ -26,7 +26,7 @@ check_package() {
 }
 
 # Check required packages
-for pkg in openssh-server pam gcc; do
+for pkg in openssh-server libpam-modules gcc; do
   if ! check_package "$pkg"; then
     echo -e "\e[31m$pkg is not installed. Exiting.\e[0m"
     exit 1
